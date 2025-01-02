@@ -17,11 +17,11 @@ The calculated data is available for machine learning
 *****Structure-file*****  
 Subsequent upload  
 
-##Functional characteristics##  
-###High throughput calculation of HOF###  
+## Functional characteristics ##  
+### High throughput calculation of HOF ###  
 Contains the required force field files and running code in the Active-learing-NA folder  
 zeo++ calculation code
 
-##Cite as##
+## Cite as ##
 
 
