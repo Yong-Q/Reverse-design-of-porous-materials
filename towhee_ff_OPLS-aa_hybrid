@@ -1,0 +1,683 @@
+towhee_ff Version
+ 13
+Number of Nonbonded Types
+ 26 
+Potential Type
+Lennard-Jones                 
+Classical Mixrule
+Lorentz-Berthelot                    
+Atom Type Number
+ 1
+Nonbond Coefficients
+  3.73
+  148.0
+  0.0
+  0.0
+Mass
+  16.0
+Element
+ C
+Bond Pattern
+sp
+Base Charge 
+  0.
+Polarizability
+  1.
+Force Field Name
+OPLS-aa   
+Atom Names
+CH4       
+CH4         
+CH4         
+CH4       
+Atom Type Number
+ 2
+Nonbond Coefficients
+  3.75
+  98
+  0.0
+  0.0
+Mass
+  15.0
+Element
+ CH3
+Bond Pattern
+Csp3    
+Base Charge 
+  0.
+Polarizability
+  1.
+Force Field Name
+OPLS-aa   
+Atom Names
+NDL    
+NDL       
+NDL       
+NDL       
+Atom Type Number
+ 3
+Nonbond Coefficients
+  3.73
+  47
+  0.0
+  0.0
+Mass
+  13.0
+Element
+ CH
+Bond Pattern
+Csp2    
+Base Charge 
+  0.
+Polarizability
+  1.
+Force Field Name
+OPLS-aa   
+Atom Names
+NCDL     
+NCDL       
+NCDL      
+NCDL        
+Atom Type Number
+ 4
+Nonbond Coefficients
+  3.675
+  85
+  0.0
+  0.0
+Mass
+  14.0
+Element
+ CH2
+Bond Pattern
+Csp2  
+Base Charge 
+  0.
+Polarizability
+  1.
+Force Field Name
+OPLS-aa   
+Atom Names
+HDL        
+HDL       
+HDL       
+HDL       
+Atom Type Number
+ 5
+Nonbond Coefficients
+  3.011
+  82.96
+  0.
+  0.
+Mass
+  15.999
+Element
+ O
+Bond Pattern
+s    
+Base Charge 
+  0.0
+Polarizability
+  1.
+Force Field Name
+OPLS-aa     
+Atom Names
+ODL        
+ODL        
+ODL         
+ODL        
+Atom Type Number
+ 6
+Nonbond Coefficients
+  2.789
+  29.66
+  0.
+  0.
+Mass
+  12.011
+Element
+  C
+Bond Pattern
+sp   
+Base Charge 
+  0.0
+Polarizability
+  1.
+Force Field Name
+OPLS-aa     
+Atom Names
+CDL         
+CDL          
+CDL         
+CDL
+Atom Type Number
+ 7 
+Nonbond Coefficients
+  2.958
+  36.7
+  0.
+  0.
+Mass
+  2.0158
+Element
+C
+Bond Pattern
+sp3
+Base Charge
+  0.0
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+H2
+H2
+H2
+H2
+Atom Type Number
+ 8 
+Nonbond Coefficients
+  3.430850964
+  52.83774300
+  0.0
+  0.0
+Mass
+  12.011
+Element
+ C
+Bond Pattern
+sp2
+Base Charge
+  0.
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+C
+C
+C
+C
+Atom Type Number
+ 9
+Nonbond Coefficients
+  2.571133701
+  22.14153040
+  0.0
+  0.0
+Mass
+  1.0079
+Element
+ H
+Bond Pattern
+s
+Base Charge
+  0.
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+H
+H
+H
+H
+Atom Type Number
+ 10
+Nonbond Coefficients
+  3.118145513
+  30.19299600
+  0.0
+  0.0
+Mass
+  15.999
+Element
+ O
+Bond Pattern
+s
+Base Charge
+  0.
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+O
+O
+O
+O
+Atom Type Number
+ 11
+Nonbond Coefficients
+  3.260689308
+  34.72194540
+  0.0
+  0.0
+Mass
+  14.00700000
+Element
+ N
+Bond Pattern
+sp3
+Base Charge
+  0.
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+N
+N
+N
+N
+Atom Type Number
+ 12 
+Nonbond Coefficients
+  2.461553158
+  62.39885840
+  0.
+  0.
+Mass
+  65.38
+Element
+Zn
+Bond Pattern
+sp3
+Base Charge
+  0.0
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+Zn
+Zn
+Zn
+Zn
+Atom Type Number
+ 13
+Nonbond Coefficients
+  2.996983288
+  25.16083000
+  0.
+  0.
+Mass
+  18.99800000
+Element
+F
+Bond Pattern
+s
+Base Charge
+  0.0
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+F
+F
+F
+F
+Atom Type Number
+ 14
+Nonbond Coefficients
+  3.516377240
+  114.2301682
+  0.
+  0.
+Mass
+  35.4530000
+Element
+Cl
+Bond Pattern
+s
+Base Charge
+  0.0
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+Cl
+Cl
+Cl
+Cl
+Atom Type Number
+ 15
+Nonbond Coefficients
+  3.731974730
+  126.3073666
+  0.
+  0.
+Mass
+  79.90400000
+Element
+Br
+Bond Pattern
+s
+Base Charge
+  0.0
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+Br
+Br
+Br
+Br
+Atom Type Number
+ 16
+Nonbond Coefficients
+  3.113691020
+  2.516083000
+  0.
+  0.
+Mass
+  63.54600000
+Element
+Cu
+Bond Pattern
+s
+Base Charge
+  0.0
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+Cu
+Cu
+Cu
+Cu
+Atom Type Number
+ 17
+Nonbond Coefficients
+  2.800985570
+  8.051465600
+  0.
+  0.
+Mass
+  50.94200000
+Element
+V
+Bond Pattern
+s
+Base Charge
+  0.0
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+V
+V
+V
+V
+Atom Type Number
+ 18
+Nonbond Coefficients
+  2.783167595
+  34.72194540
+  0.
+  0.
+Mass
+  91.22400000
+Element
+Zr
+Bond Pattern
+s
+Base Charge
+  0.0
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+Zr
+Zr
+Zr
+Zr
+Atom Type Number
+ 19
+Nonbond Coefficients
+  2.524807
+  7.548249
+  0.
+  0.
+Mass
+  58.69
+Element
+Ni
+Bond Pattern
+s
+Base Charge
+  0.0
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+Ni
+Ni
+Ni
+Ni
+Atom Type Number
+ 20
+Nonbond Coefficients
+  4.00815
+  254.124
+  0.
+  0.
+Mass
+  26.98
+Element
+Al
+Bond Pattern
+s
+Base Charge
+  0.0
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+Al
+Al
+Al
+Al
+Atom Type Number
+ 21
+Nonbond Coefficients
+  3.6375
+  90.579
+  0.
+  0.
+Mass
+  10.81
+Element
+B
+Bond Pattern
+s
+Base Charge
+  0.0
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+B
+B
+B
+B
+Atom Type Number
+ 22
+Nonbond Coefficients
+  2.6932
+  7.5482
+  0.
+  0.
+Mass
+  51.996
+Element
+Cr
+Bond Pattern
+s
+Base Charge
+  0.0
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+Cr
+Cr
+Cr
+Cr
+Atom Type Number
+ 23
+Nonbond Coefficients
+  2.5587
+  7.0450
+  0.
+  0.
+Mass
+  58.933
+Element
+Co
+Bond Pattern
+s
+Base Charge
+  0.0
+Polarizability
+  1.
+Force Field Name
+OPLS-aa
+Atom Names
+Co
+Co
+Co
+Co
+Atom Type Number
+ 24
+Nonbond Coefficients
+3.8264
+202.293
+0.
+0.
+Mass
+28.086
+Element
+Si
+Bond Pattern
+s
+Base Charge
+0.0
+Polarizability
+1.
+Force Field Name
+OPLS-aa
+Atom Names
+Si
+Si
+Si
+Si
+Atom Type Number
+ 25
+Nonbond Coefficients
+4.1
+211
+0.
+0.
+Mass
+131.29
+Element
+Xe
+Bond Pattern
+sp3
+Base Charge
+0.0
+Polarizability
+1.
+Force Field Name
+OPLS-aa
+Atom Names
+Xe
+Xe
+Xe
+Xe
+Atom Type Number
+ 26
+Nonbond Coefficients
+3.68
+110.7
+0.
+0.
+Mass
+83.8
+Element
+Kr
+Bond Pattern
+sp3
+Base Charge
+0.0
+Polarizability
+1.
+Force Field Name
+OPLS-aa
+Atom Names
+Kr
+Kr
+Kr
+Kr
+Number of Bonded Terms
+ 2 
+Bond Type Number
+ 1
+Bond Style
+ 1
+Bond Coefficients
+  1.54 
+Force Field Name
+OPLS-aa     
+Number of Atoms with Same Parameters  
+ 1
+Atom Names
+NDL        NCDL       
+Bond Type Number
+ 2 
+Bond Style
+ 1
+Bond Coefficients
+  1.33
+Force Field Name
+OPLS-aa
+Number of Atoms with Same Parameters
+ 1
+Atom Names
+NCDL       HDL
+Number of Angle Terms
+ 1
+Angle Type Number
+ 1
+Angle Style
+ 1
+Angle Coefficients
+  119.7
+  35210
+Force Field Name
+OPLS-aa     
+Number of Atoms with Same Parameters  
+ 1
+Atom Names
+NDL        NCDL       HDL        
+Number of Torsion Terms
+ 0
+Number of Improper Terms
+ 0
+Number of Angle-Angle Terms
+ 0
+Number of One-Five Types
+ 0
+Number of Bond Increments
+ 0
