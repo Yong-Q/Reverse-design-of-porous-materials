@@ -1,0 +1,12 @@
+#!/bin/bash
+#PBS -N BTO
+#PBS -l nodes=node02:ppn=5
+#PBS -l walltime=9999:59:59
+
+#PBS -j oe
+cd /home/qiuyong/PORMAKE/bulk_pormake_generation
+source /opt/modules/module.sh
+module load conda
+source activate HOFtest
+python make_candidates.py -n=400000 -s=4.txt
+python build_materials1.py
