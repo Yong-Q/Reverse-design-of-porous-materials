@@ -23,5 +23,5 @@ Contains the required force field files and running code in the Active-learing-N
 zeo++ calculation code
 
 ## Cite as ##
-
+Database:10.5281/zenodo.14910258
 
