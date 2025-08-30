@@ -23,5 +23,6 @@ Contains the required force field files and running code in the Active-learing-N
 zeo++ calculation code
 
 ## Cite as ##
+***Chem. Sci.***, 2025, DOI: 10.1039/D5SC04332H
 Database:10.5281/zenodo.14910258
 
